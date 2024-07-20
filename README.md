@@ -108,5 +108,7 @@ If you would like to contribute to this project, please follow these steps:
     Push to the branch (git push origin feature/your-feature).
     Open a pull request.
 ## collaborators
-- @Harsh-Tewari
-- @Achintyamishra01
+- [@Abhiroop Singh](https://github.com/Abhiroop-Singh)
+- [@Achintya Mishra](https://github.com/achintyamishra01)
+- [@Harsh Dutta Tewari](https://github.com/Harsh-Tewari)
+- [@Avnish Pathak](https://github.com/Avnish-02)
