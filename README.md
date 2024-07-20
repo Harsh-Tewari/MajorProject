@@ -107,3 +107,6 @@ If you would like to contribute to this project, please follow these steps:
     Make your changes and commit them (git commit -m 'Add some feature').
     Push to the branch (git push origin feature/your-feature).
     Open a pull request.
+## collaborators
+- @Harsh-Tewari
+- @Achintyamishra01
